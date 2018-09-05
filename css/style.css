@@ -291,6 +291,7 @@ hr {
 	background: #f6f6f6;
 }
 .categories {
+	
 	padding-bottom: 30px;
 	text-align: center;
 }
@@ -300,6 +301,7 @@ ul.cat li {
 ol.type li {
 	display: inline-block;
 	margin-left: 20px;
+	margin-top: 20px;
 }
 ol.type li a {
 	color: #777;
