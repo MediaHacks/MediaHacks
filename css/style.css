@@ -166,7 +166,7 @@ hr {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-	
+	background-size: cover;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -198,6 +198,7 @@ hr {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
+	background-size: cover;
 }
 #intro .intro-body .intro-text {
 	font-size: 18px;
